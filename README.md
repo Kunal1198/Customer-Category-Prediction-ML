@@ -11,6 +11,6 @@ In this categorizing the customers in four groups, as follows:
 
 The objective is to build a classifier to predict the class of unknown cases. 
 
-Used classification algorithms like K nearest neighbour and Support Vector Machine.There are 1000 samples of customers in the dataset.
+Used classification algorithms like K nearest neighbour and Support Vector Machine.There are 1000 samples of customers in the dataset. 
 
 
